@@ -1,0 +1,13 @@
+$ cd /workspace/shadcn-ui
+$ pnpm add react-dropzone
+
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 52, reused 52, downloaded 0, added 0
+Progress: resolved 107, reused 107, downloaded 0, added 0
+Progress: resolved 252, reused 252, downloaded 0, added 0
+Progress: resolved 499, reused 425, downloaded 0, added 0
+ WARN  1 deprecated subdependencies found: rollup-plugin-terser@7.0.2
+Already up to date
+Progress: resolved 501, reused 427, downloaded 0, added 0, done
+
+Done in 9.1s
